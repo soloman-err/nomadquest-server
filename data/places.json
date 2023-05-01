@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "image": "https://images.unsplash.com/photo-1552733407-5d5c46c3bb3b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=780&q=80",
+    "location": "Paris, France",
+    "desc": "Explore the City of Light's iconic landmarks, such as the Eiffel Tower and the Louvre Museum."
+  },
+  {
+    "id": 2,
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjZ8fHRyYXZlbHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+    "location": "Tokyo, Japan",
+    "desc": "Experience Tokyo's vibrant culture and unique cuisine, and visit famous sites like the Shibuya Crossing and the Tokyo Skytree."
+  },
+  {
+    "id": 3,
+    "image": "https://images.unsplash.com/photo-1516483638261-f4dbaf036963?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzB8fHRyYXZlbHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+    "location": "Bali, Indonesia",
+    "desc": "Relax on Bali's beautiful beaches, hike in its lush rice paddies, and explore its ancient temples."
+  },
+  {
+    "id": 4,
+    "image": "https://images.unsplash.com/photo-1506929562872-bb421503ef21?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzV8fHRyYXZlbHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+    "location": "New York City, USA",
+    "desc": "See the bright lights of Times Square, visit the Statue of Liberty, and take in a Broadway show in the Big Apple."
+  },
+  {
+    "id": 5,
+    "image": "https://images.unsplash.com/photo-1541410965313-d53b3c16ef17?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NDd8fHRyYXZlbHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+    "location": "Rio de Janeiro, Brazil",
+    "desc": "Experience the vibrant culture and stunning natural beauty of Rio de Janeiro, from the iconic Christ the Redeemer statue to the beautiful Copacabana beach."
+  },
+  {
+    "id": 6,
+    "image": "https://images.unsplash.com/photo-1499363536502-87642509e31b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NTl8fHRyYXZlbHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+    "location": "Sydney, Australia",
+    "desc": "Visit the iconic Sydney Opera House, stroll along Bondi Beach, and take in the stunning views from atop the Sydney Harbour Bridge."
+  },
+  {
+    "id": 7,
+    "image": "https://images.unsplash.com/photo-1475066392170-59d55d96fe51?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8dHJhdmVsJTIwdmlsbGFnZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+    "location": "Cape Town, South Africa",
+    "desc": "Take in the natural beauty of Cape Town, from Table Mountain to the stunning beaches along the Atlantic Ocean."
+  },
+  {
+    "id": 8,
+    "image": "https://images.unsplash.com/photo-1487622750296-6360190669a1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NjJ8fHRyYXZlbCUyMHZpbGxhZ2UlMjBiZHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+    "location": "Barcelona, Spain",
+    "desc": "Explore the stunning architecture of Antoni Gaudí, including the Sagrada Familia and Park Güell, and sample delicious tapas in the lively streets of Barcelona."
+  },
+  {
+    "id": 9,
+    "image": "https://images.unsplash.com/photo-1506929562872-bb421503ef21?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NzZ8fHRyYXZlbCUyMHZpbGxhZ2UlMjBiZHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+    "location": "Santorini, Greece",
+    "desc": "Take in the stunning views of the Aegean Sea from the whitewashed buildings and blue-domed churches of Santorini, and enjoy the delicious local cuisine."
+  },
+  {
+    "id": 10,
+    "image": "https://images.unsplash.com/photo-1556276797-5086e6b45ff9?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTE1fHx0cmF2ZWwlMjB2aWxsYWdlJTIwYmR8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+    "location": "Havana, Cuba",
+    "desc": "Experience the vibrant culture of Cuba in Havana, from the classic cars to the salsa music and delicious cuisine."
+  }
+]

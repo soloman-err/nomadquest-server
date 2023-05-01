@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "name": "Marriott",
+    "desc": "Luxurious hotel with stunning views of the city and top-notch amenities.",
+    "rating": 4.7,
+    "price": 200
+  },
+  {
+    "id": 2,
+    "name": "Hilton",
+    "desc": "Elegant hotel located in the heart of downtown, with easy access to popular attractions.",
+    "rating": 4.5,
+    "price": 180
+  },
+  {
+    "id": 3,
+    "name": "Holiday Inn",
+    "desc": "Affordable hotel chain offering comfortable rooms and friendly service.",
+    "rating": 4.0,
+    "price": 100
+  },
+  {
+    "id": 4,
+    "name": "Ritz-Carlton",
+    "desc": "Exclusive hotel with unparalleled luxury and personalized service.",
+    "rating": 4.9,
+    "price": 400
+  },
+  {
+    "id": 5,
+    "name": "Sheraton",
+    "desc": "Spacious rooms and great amenities, perfect for both business and leisure travelers.",
+    "rating": 4.3,
+    "price": 150
+  },
+  {
+    "id": 6,
+    "name": "Four Seasons",
+    "desc": "Upscale hotel with a serene atmosphere, located in a quiet area of the city.",
+    "rating": 4.8,
+    "price": 350
+  },
+  {
+    "id": 7,
+    "name": "InterContinental",
+    "desc": "World-class hotel with breathtaking views and impeccable service.",
+    "rating": 4.6,
+    "price": 250
+  },
+  {
+    "id": 8,
+    "name": "Westin",
+    "desc": "Stylish hotel with modern design and convenient location near the city center.",
+    "rating": 4.2,
+    "price": 120
+  },
+  {
+    "id": 9,
+    "name": "Hyatt Regency",
+    "desc": "Contemporary hotel with spacious rooms and a variety of dining options.",
+    "rating": 4.4,
+    "price": 180
+  },
+  {
+    "id": 10,
+    "name": "Radisson Blu",
+    "desc": "Chic hotel with stylish decor and excellent amenities, perfect for both business and leisure travelers.",
+    "rating": 4.1,
+    "price": 140
+  }
+]
